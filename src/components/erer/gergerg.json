@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_erer_gergergs",
+  "info": {
+    "displayName": "gergerg",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "ergerg": {
+      "type": "date"
+    }
+  }
+}

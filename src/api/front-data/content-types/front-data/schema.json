@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "front_datas",
+  "info": {
+    "singularName": "front-data",
+    "pluralName": "front-datas",
+    "displayName": "Front Data"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "Main_Text": {
+      "type": "text"
+    },
+    "Paragraph": {
+      "type": "text"
+    }
+  }
+}
